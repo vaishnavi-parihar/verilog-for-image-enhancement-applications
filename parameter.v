@@ -10,7 +10,7 @@
 //---------------------------------------------------------------------------
 
 `define ORIGINAL_IMAGE 
-//desired operation of code can used by deleting '//' at the beginning of the selected line
+//following processing operations can be changed by switching comment lines
 
 //`define INVERT_OPERATION
 
